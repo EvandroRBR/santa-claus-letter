@@ -1,12 +1,12 @@
 # Santa Claus Letter
 
-Para desenvolver o projeto foi utilizado tecnoçogias como **Postgres**, **Node**, **Typescript**, **Docker**, **Typeorm** entre outras bibliotecas.
+Para desenvolver o projeto foi utilizado tecnologias como **Postgres**, **Node**, **Typescript**, **Docker**, **Typeorm** entre outras bibliotecas.
 
 Para rodar o projeto primeiro devemos clonar o repositório e depois rodar o comando ```yarn``` ou ```npm install``` para instalar todas as dependências.
 
 Será necessário ter instalado o **PostgreSQL** ou o **Docker**.
 
-Se você não tiver a imagem do postgresql instalada será necessário instalar, mas para isso é necessário que esteja no usuário root e inserira o comando:
+Se você não tiver a imagem do postgresql instalada será necessário instalar, mas para isso é necessário que esteja no usuário root ou coloque *sudo* antes de cada comando:
 
 ```docker pull postgres```
 
